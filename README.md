@@ -21,19 +21,6 @@ You can also specify some options:
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `pdf2image` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:pdf2image, "~> 0.1.0"}
-  ]
-end
-```
-
-## Installation
-
 You can install `pdf2image` by adding it to your list of
 dependencies in `mix.exs`:
 
