@@ -2,7 +2,7 @@ defmodule PDF2Image.MixProject do
   use Mix.Project
 
   @version "0.1.0"
-  @repo_url "https://github.com/ifoo/pdf2image"
+  @repo_url "https://github.com/Comoto-Tech/pdf2image"
 
   def project do
     [
